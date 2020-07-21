@@ -1,9 +1,13 @@
-### Hi there 👋
+
+![Hey there, I'm Athul Jayaram. I'm a cybersecurity researcher, a software engineer and a crypto enthusiast Check out my work](https://github.com/juniorhero/juniorhero/raw/master/athul.gif)
 
 <!--
 **juniorhero/juniorhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Hi there 👋
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
