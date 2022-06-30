@@ -1,7 +1,7 @@
 
 ![Hey there, I'm Athul Jayaram. I'm a cybersecurity researcher, a software engineer and a crypto enthusiast Check out my work](https://github.com/juniorhero/juniorhero/raw/master/athul.gif)
 
-### Hey there, I'm Athul Jayaram. I'm a cybersecurity researcher, a software engineer and a crypto enthusiast Check out my work <a href="https://athul.co">Athul.co</a>  👋
+### Hey there, I'm Athul Jayaram. I'm a cybersecurity researcher, a software engineer and a crypto enthusiast Check out my work <a href="https://athul.us">Athul.us</a>  👋
 
 
 
